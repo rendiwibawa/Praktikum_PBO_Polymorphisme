@@ -4,8 +4,7 @@
 ## Latihan 1
 ![Alt Text](https://github.com/rendiwibawa/Praktikum_PBO_Polymorphisme/blob/master/Praktikum%20PBO%204%20Polymorphisme/Latihan%20praktikum%201%20b.PNG)
 ## laTIHAN 2
-![Alt Text]
-(https://github.com/rendiwibawa/Praktikum_PBO_Polymorphisme/blob/master/Latihan%20praktikum%202a.PNG)
+![Alt Text](https://github.com/rendiwibawa/Praktikum_PBO_Polymorphisme/blob/master/Latihan%20praktikum%202a.PNG)
 ## Latihan 2
 ![Alt Text](https://github.com/rendiwibawa/Praktikum_PBO_Polymorphisme/blob/master/Praktikum%20PBO%204%20Polymorphisme/Latihan%20praktikum%202c.PNG)
 ## Latihan 2
